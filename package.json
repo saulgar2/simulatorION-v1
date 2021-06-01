@@ -1,0 +1,20 @@
+{
+  "name": "simulatorion-v1",
+  "version": "1.0.0",
+  "description": "Automatizacion de simulador ION",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QA",
+    "Automation",
+    "with",
+    "cypress"
+  ],
+  "author": "Saul Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.4.0"
+  }
+}
