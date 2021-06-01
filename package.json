@@ -4,7 +4,7 @@
   "description": "Automatizacion de simulador ION",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress open"
   },
   "keywords": [
     "QA",
@@ -16,5 +16,9 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^7.4.0"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/saulgar2/simulatorION-v1"
   }
 }
