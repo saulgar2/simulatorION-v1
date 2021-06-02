@@ -15,3 +15,17 @@ context("Simulator Test", () => {
     })
 
 })
+
+
+
+describe('Test Single Input Field Form', function(){ 
+declare : const testData = require("../../fixtures/multipleInputFields.json").and.then.testData.forEach((data) => {
+       const message = data.message  
+       it('Test Case', function(){
+                  cy.log("data is:" + data)  
+                  cy.get('#user-message').type(message).should('have.value', message)  
+                  cy.get('#get-input > button').click()   
+                  cy.wait(200)  
+                  cy.get('span#display').should('have.text', message)
+        })  
+  });
