@@ -18,7 +18,7 @@ context("Simulator Test", () => {
 
 
 
-describe('Test Single Input Field Form', function(){ 
+/*describe('Test Single Input Field Form', function(){ 
 declare : const testData = require("../../fixtures/multipleInputFields.json").and.then.testData.forEach((data) => {
        const message = data.message  
        it('Test Case', function(){
@@ -28,4 +28,4 @@ declare : const testData = require("../../fixtures/multipleInputFields.json").an
                   cy.wait(200)  
                   cy.get('span#display').should('have.text', message)
         })  
-  });
+  })*/
