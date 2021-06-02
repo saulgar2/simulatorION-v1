@@ -1,9 +1,22 @@
 {
-    "money_do_i_need": "900000",
-    "property_collateral": "1500000",
-    "monthly_income": "65000",
-    "offer": "990,000.00",
-    "name": "Pruebas testing test",
-    "phone": "522312312311",
-    "email": "pruebas@pruebas.com"
+    "input":[
+    {
+            "money": "900000",
+            "property": "1500000",
+            "monthly": "65000",
+            "offer": "990,000.00",
+            "name": "Pruebas testing test",
+            "phone": "522312312311",
+            "email": "pruebas@pruebas.com"
+        },
+        {
+            "money": "800000",
+            "property": "1000000",
+            "monthly": "75000",
+            "offer": "990,000.00",
+            "name": "Pruebas testing test",
+            "phone": "522312312311",
+            "email": "pruebas@pruebas.com"
+        }
+    ]
 }
