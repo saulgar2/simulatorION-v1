@@ -15,9 +15,10 @@
   "author": "Saul Garcia",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^7.4.0"
+    "cypress": "^7.4.0",
+    "typescript": "^4.3.2"
   },
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/saulgar2/simulatorION-v1"
   }
