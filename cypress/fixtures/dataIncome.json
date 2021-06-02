@@ -1,0 +1,6 @@
+{
+    "moneyNeed": "div.css-1r5ktl label[for='¿Cuánto dinero necesitas?'] + div input",
+    "stateGaranty": "div.css-1r5ktl label[for='¿Cuánto vale el inmueble en garantía?'] + div input",
+    "monthlyIncome": "div.css-1r5ktl label[for='¿Cuál es tu ingreso mensual bruto?'] + div input",
+    "firstOfferButton": ".css-1r5ktl > .css-oujmbf > span"
+}
