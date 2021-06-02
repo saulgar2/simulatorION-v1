@@ -1,7 +1,7 @@
 context('Simulator Web', () => {
 
     beforeEach(() => {
-        cy.visit('/')
+        cy.visit('https://www.ion.com.mx/-temporary-slug-0f1bf9a2-3d5e-4f71-aa2b-cf5f76759609?hs_preview=gBIKqFra-44100692347')
     })
 
     it('Liquidity Test Web', () => {
