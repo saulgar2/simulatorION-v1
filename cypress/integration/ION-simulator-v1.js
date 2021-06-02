@@ -20,7 +20,5 @@ context("Simulator Test", () => {
             cy.dataUser('pruebas testing qa', '5512345698', 'pruebas@pruebas.com');
         //})
 
-        
     })
-
 })
